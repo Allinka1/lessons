@@ -11,7 +11,7 @@
 dict_students = {
                  'Alina Dymova': {'Python', 'FrontEnd'},
                  'Sergey Ivanov': {'FrontEnd'},
-                 'Anton Parshin': {'FullStack'},
+                 'Anton Ivanchin': {'FullStack'},
                  'Victoria Klimenko': {'Python', 'FrontEnd'},
                  'Yulia Sergeeva': {'Java', 'FullStack'},
                  'Maria Klimenova': {'Python', 'FrontEnd', 'FullStack', 'Java'}
